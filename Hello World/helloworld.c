@@ -3,7 +3,7 @@
 int main()
 {
     /*primul program*/
-    printf("Hello Wolrd");
+    printf("Hello Wolrd! \n");
 
     return 0;
 }
